@@ -1,0 +1,6 @@
+const ROOT = "/"
+const FEATURES = "/"
+const PRICING = "/"
+const LOGIN = "/"
+const REGISTER = "/"
+const PROFILE = "/"

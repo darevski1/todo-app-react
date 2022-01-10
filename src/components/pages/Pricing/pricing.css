@@ -1,0 +1,69 @@
+.pricing__page-intro {
+    width: 100%;
+    height: 100vh;
+    padding-top: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pricing__page-intro .container h1  {
+    display: flex;
+    font-size: 3rem;
+    justify-content: center;
+    color: #20434c;
+}
+.pricing__page-intro .container p {
+    display: flex;
+    font-size: 1.2rem;
+    justify-content: center;
+    align-items: center;
+    color: #20434c;
+    margin-top: 30px;
+}
+
+.image__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image__container img {
+    width: 270px;
+    margin-top: 60px;
+}
+.pricing__plans {
+    background: #ffe6e2;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.pricing__plans .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box__plan {
+    width: 30%;
+    border: 1px solid #f9cfca;
+    height: 400px;
+    background: #fff;
+    border-radius: 3px;
+}
+.heading__box {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading__box h1 {
+    font-size: 2.4rem;
+    color: #20434c;
+}
+.heading__box p {
+    font-size: 1rem;
+    color: #20434c;
+    margin-top: 20px;
+}
+ 
